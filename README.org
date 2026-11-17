@@ -175,3 +175,8 @@ Consider the following example that adds two new keybindings that dismiss notifi
 #+end_src
 
 You can find more examples of this in [[https://github.com/engstrand-config/guix-dotfiles][our GNU Guix configuration]], mainly in the =engstrand/features/wayland.scm= file.
+
+
+* WARENA technology-policy boundary (2026-11-17)
+
+This maintained fork is evaluated under WARENA's native-first, libre-first and local-first policy. JavaScript is prohibited as a language, runtime, framework or dependency; web technologies are excluded as WARENA/IKAI application/runtime architecture. This repository's Wayland implementation remains an explicitly secondary/experimental research track; WARENA's current default desktop research is X11-first (Guile-WM and Gershwin sessions). No deployment or installation is implied. See https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md.
