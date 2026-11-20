@@ -183,3 +183,8 @@ You can find more examples of this in [[https://github.com/engstrand-config/guix
 * WARENA technology-policy boundary (2026-11-17)
 
 This maintained fork is evaluated under WARENA's native-first, libre-first and local-first policy. JavaScript is prohibited as a language, runtime, framework or dependency; web technologies are excluded as WARENA/IKAI application/runtime architecture. This repository's Wayland implementation remains an explicitly secondary/experimental research track; WARENA's current default desktop research is X11-first (Guile-WM and Gershwin sessions). No deployment or installation is implied. See https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md.
+
+
+* WARENA architecture boundary — 2026-11-20
+
+This fork remains a Wayland/dwl-guile supporting research component. WARENA's conventional desktop policy is X11-first; Wayland and dwl-guile remain secondary/experimental. Spatial computing, immersive XR and opt-in AI are separate optional layers and are not responsibilities of this compositor or Guix Home service. See [[https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md][WARENA spatial/XR/opt-in AI architecture]] and [[https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md][WARENA desktop architecture]]. No installed session, package build, XR integration or deployment is implied.
