@@ -188,3 +188,7 @@ This maintained fork is evaluated under WARENA's native-first, libre-first and l
 * WARENA architecture boundary — 2026-11-20
 
 This fork remains a Wayland/dwl-guile supporting research component. WARENA's conventional desktop policy is X11-first; Wayland and dwl-guile remain secondary/experimental. Spatial computing, immersive XR and opt-in AI are separate optional layers and are not responsibilities of this compositor or Guix Home service. See [[https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md][WARENA spatial/XR/opt-in AI architecture]] and [[https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md][WARENA desktop architecture]]. No installed session, package build, XR integration or deployment is implied.
+
+
+* Maintenance plan — 2026-11-21
+See [[file:MAINTENANCE-PLAN-2026-11-21.org][the WARENA fork maintenance plan]].
