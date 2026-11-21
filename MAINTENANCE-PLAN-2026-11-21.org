@@ -24,3 +24,15 @@ Wayland/dwl-guile remains secondary/experimental under WARENA's X11-first deskto
 3. Build and evaluate the Home service in an isolated profile.
 4. Test activation and rollback without altering a production profile.
 5. Update documentation only from verified command output and source revisions.
+
+* Qualification evidence record
+For each qualification attempt, record:
+- Date, operator, host, isolated profile path and Guix revision.
+- Fork commit SHA, upstream base SHA, local patch list and licence/notice review.
+- Exact channel URL, introduction commit, fingerprint source, authorizations and verification result.
+- Module imports, package inputs, service extensions, Shepherd service definition and environment.
+- Build/evaluation command, exit status, full log location and generated profile reference.
+- Home generation activation result, service start/stop/restart, logs and dependency ordering.
+- Failure injection, rollback result, known gaps, reviewer and disposition.
+
+A valid channel signature is not proof that the service builds. A package build is not proof of Home activation. Activation is not proof of a usable compositor session. Keep each result separate and evidence-backed.
