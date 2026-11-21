@@ -1,0 +1,26 @@
+* WARENA fork maintenance plan — 2026-11-21
+
+**Role:** Maintained fork of upstream `engstrand-config/home-service-dwl-guile`; Guix Home integration for the experimental dwl-guile track.
+
+* Channel and provenance safety
+- Preserve upstream history, licence notices and creator attribution.
+- The upstream channel URL and introduction fingerprint in inherited documentation must not be presented as this fork's channel identity.
+- Verify `.guix-channel`, `.guix-authorizations`, channel introduction and signing identity from current commits before publishing installation instructions.
+- Never substitute a fingerprint or claim channel trust without verifying the cryptographic source.
+
+* Service validation
+- Record exact service and dwl-guile source revisions.
+- Validate Guix module imports, package inputs, service extension, Shepherd integration, environment variables and startup ordering.
+- Build in a clean Guix environment and preserve logs.
+- Test activation, TTY/session startup, failure handling, stop/restart and rollback.
+- Distinguish package build, Home generation, service activation and a working compositor session.
+
+* Policy boundary
+Wayland/dwl-guile remains secondary/experimental under WARENA's X11-first desktop research. No installed service or deployed session is implied by documentation.
+
+* Immediate sequence
+1. Verify fork channel metadata and authorization chain.
+2. Compare fork changes with upstream.
+3. Build and evaluate the Home service in an isolated profile.
+4. Test activation and rollback without altering a production profile.
+5. Update documentation only from verified command output and source revisions.
