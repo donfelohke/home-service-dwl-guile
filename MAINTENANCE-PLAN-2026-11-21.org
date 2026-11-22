@@ -36,3 +36,8 @@ For each qualification attempt, record:
 - Failure injection, rollback result, known gaps, reviewer and disposition.
 
 A valid channel signature is not proof that the service builds. A package build is not proof of Home activation. Activation is not proof of a usable compositor session. Keep each result separate and evidence-backed.
+
+
+* Execution addendum — 2026-11-22
+
+Added a dated WARENA Guix Home fork-maintenance record and README pointer. The upstream relationship, licensing and local delta remain explicit. No service code, package definition or patch was changed. No Guix derivation, activation or rollback test is claimed; code changes remain gated on a matching dwl-guile revision and disposable-profile validation.
