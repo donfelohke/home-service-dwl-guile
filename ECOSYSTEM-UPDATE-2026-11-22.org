@@ -7,6 +7,9 @@ This repository is a WARENA-maintained fork of [[https://github.com/engstrand-co
 * Architecture boundary
 Guix + RDE remains the WARENA configuration home. The dwl-guile / Wayland track is secondary and experimental under the current X11-first desktop policy.
 
+* Omarchy / Omaxian comparative research — 2026-11-22
+The WARENA study [[https://github.com/donfelohke/WARENA/blob/main/docs/OMARCHY-OMAXIAN-GUIX-DESKTOP-ARCHITECTURE-RESEARCH-2026-11-22.md][Omarchy, Omaxian and the Reproducible Desktop]] compares desktop integration and portability patterns. It does not change this service's scope or promote dwl-guile to the default desktop direction. This repository remains a Guix Home service fork for the experimental Wayland track; no package build, activation, host installation or deployment is claimed.
+
 * Maintenance gates
 - Record upstream revision and every local patch with provenance and rationale.
 - Validate service record fields, package inputs, serializer output and generated configuration against the matching dwl-guile revision.
