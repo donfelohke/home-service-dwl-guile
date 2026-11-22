@@ -192,3 +192,9 @@ This fork remains a Wayland/dwl-guile supporting research component. WARENA's co
 
 * Maintenance plan — 2026-11-21
 See [[file:MAINTENANCE-PLAN-2026-11-21.org][the WARENA fork maintenance plan]].
+
+
+
+* Project context
+
+This fork remains a focused Guix Home service repository. The wider WARENA/FELOH research context, including African technological histories and sovereign futures, is documented in the [[https://github.com/donfelohke/WARENA/blob/main/docs/BLACK-HINTERLAND-TECHNOLOGY-AND-SOVEREIGN-FUTURES-2026-11-22.md][WARENA research note]] and the [[https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md][FELOH Corpus master dossier]]. This contextual link does not change upstream attribution, fork scope, code behaviour or deployment status.
