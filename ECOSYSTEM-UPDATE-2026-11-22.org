@@ -1,0 +1,18 @@
+#+title: WARENA Guix Home fork maintenance update — 2026-11-22
+#+startup: overview
+
+* Repository role
+This repository is a WARENA-maintained fork of [[https://github.com/engstrand-config/home-service-dwl-guile][engstrand-config/home-service-dwl-guile]]. Preserve upstream authorship, licence notices, history and attribution. It is a supporting Guix Home service fork, not a separate WARENA desktop product.
+
+* Architecture boundary
+Guix + RDE remains the WARENA configuration home. The dwl-guile / Wayland track is secondary and experimental under the current X11-first desktop policy.
+
+* Maintenance gates
+- Record upstream revision and every local patch with provenance and rationale.
+- Validate service record fields, package inputs, serializer output and generated configuration against the matching dwl-guile revision.
+- Check patch applicability and package derivations in a declared Guix environment.
+- Test activation and rollback in a disposable profile before host use.
+- Record build/test logs and limitations; do not claim a successful host deployment without evidence.
+
+* Reuse policy
+Prefer upstream fixes and minimal attributable deltas. Do not duplicate the parent project or silently change inherited licensing and attribution.
