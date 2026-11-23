@@ -33,4 +33,4 @@ This note aligns repository identity and documentation expectations only. It doe
 
 ## Shared brand reference
 
-The proposed [FELOH Corpus Brand Constitution v1.0](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md) defines shared identity context. This repository remains a supporting WARENA technical project; brand alignment does not alter its Scheme code, Guix service definitions, runtime or release status.
+The proposed [FELOH Corpus Brand Constitution v1.0](https://github.com/donfelohke/feloh-corpus/blob/docs/ecosystem-alignment-2026-11-24/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md) defines shared identity context. This repository remains a supporting WARENA technical project; brand alignment does not alter its Scheme code, Guix service definitions, runtime or release status.
