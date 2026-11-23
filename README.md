@@ -20,3 +20,7 @@ This is a supporting integration project in the WARENA engineering ecosystem. It
 This README is an orientation to the repository identity and project purpose. Consult the source tree, existing documentation and LICENSE for implementation details, installation instructions, supported configurations and contribution requirements. Do not infer release status, compatibility or deployment from the repository description alone.
 
 **Freedom Is a System.**
+
+## Ecosystem alignment · 2026-11-24
+
+See [the alignment note](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for this repository's role, cross-project boundaries and documentation standards.
