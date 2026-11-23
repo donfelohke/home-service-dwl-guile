@@ -30,3 +30,7 @@ This note aligns repository identity and documentation expectations only. It doe
 - [WARENA](https://github.com/donfelohke/WARENA)
 - [FELOH Corpus](https://github.com/donfelohke/feloh-corpus)
 - [dwl-guile](https://github.com/donfelohke/dwl-guile)
+
+## Shared brand reference
+
+The proposed [FELOH Corpus Brand Constitution v1.0](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md) defines shared identity context. This repository remains a supporting WARENA technical project; brand alignment does not alter its Scheme code, Guix service definitions, runtime or release status.
