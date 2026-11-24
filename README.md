@@ -23,6 +23,12 @@ This is a supporting integration project in the WARENA engineering ecosystem. It
 
 This README is an orientation to the repository identity and project purpose. Consult the source tree, existing documentation and LICENSE for implementation details, installation instructions, supported configurations and contribution requirements. Do not infer release status, compatibility or deployment from the repository description alone.
 
+## Upstream relationship and implementation guide
+
+This repository is a WARENA-maintained supporting integration. Its Org-mode [implementation and installation notes](README.org) describe the service and preserve the upstream relationship to [engstrand-config/home-service-dwl-guile](https://github.com/engstrand-config/home-service-dwl-guile). The notes explicitly distinguish the upstream channel example and fingerprint from this fork; do not copy them as this fork's channel declaration or invent a replacement fingerprint.
+
+Read the source and the Org-mode guide together before attempting installation. A README description or configuration example does not establish a successful Guix build, an activated Home service, a working compositor session or compatibility with a particular Guix revision. Record the exact channel revisions, system configuration and test outcome when validating an installation.
+
 ## Related WARENA research
 
 - [Reproducible Systems and Real-Time I/O Validation](https://github.com/donfelohke/WARENA/blob/main/docs/REPRODUCIBLE-SYSTEMS-AND-REALTIME-IO-VALIDATION-2026-11-24.md) — shared research and proposed validation methods; not a claim that this compositor or service has completed those tests.
