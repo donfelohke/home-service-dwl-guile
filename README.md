@@ -13,7 +13,11 @@ This is a supporting integration project in the WARENA engineering ecosystem. It
 - **GENJE:** independent embodied creative practice; **GENJE ZA WARENA** is a creative and enabling relationship, not a product merger.
 - **GRACE → NAKEBUSEN:** distinct beauty and loc-care practice; **ONLY NAKEBUSEN TRANSACTS**.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 ## Scope and evidence
 
