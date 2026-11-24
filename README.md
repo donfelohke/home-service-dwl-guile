@@ -23,6 +23,11 @@ This is a supporting integration project in the WARENA engineering ecosystem. It
 
 This README is an orientation to the repository identity and project purpose. Consult the source tree, existing documentation and LICENSE for implementation details, installation instructions, supported configurations and contribution requirements. Do not infer release status, compatibility or deployment from the repository description alone.
 
+## Related WARENA research
+
+- [Reproducible Systems and Real-Time I/O Validation](https://github.com/donfelohke/WARENA/blob/main/docs/REPRODUCIBLE-SYSTEMS-AND-REALTIME-IO-VALIDATION-2026-11-24.md) — shared research and proposed validation methods; not a claim that this compositor or service has completed those tests.
+- [Camera, Display and Real-Time I/O at Scale](https://github.com/donfelohke/WARENA/blob/main/docs/CAMERA-DISPLAY-REALTIME-IO-SCALE-RESEARCH-2026-11-24.md) — relevant native media and display pipeline context.
+
 **Freedom Is a System.**
 
 
