@@ -40,3 +40,13 @@ Read the source and the Org-mode guide together before attempting installation. 
 ## Ecosystem alignment · 2026-11-24
 
 See [the alignment note](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for this repository's role, cross-project boundaries and documentation standards.
+
+
+## Shared identity alignment · 26 November 2026
+
+This repository is a supporting WARENA integration. **GRIT → WARENA** is the current pillar mapping; FELOH remains the human author, GRACE → NAKEBUSEN and GLORY → GENJE / GENJENESS. This repository is not a separate brand or commercial service. See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md). **ONLY NAKEBUSEN TRANSACTS.**
+
+
+## Documentation index
+
+See [docs/README.md](docs/README.md) for the current repository documentation map and source-of-record links.
