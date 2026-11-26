@@ -9,7 +9,7 @@ This is a supporting integration project in the WARENA engineering ecosystem. It
 ## Identity relationship
 
 - **GRIT → WARENA:** libre-first systems engineering and infrastructure.
-- **GLORY → DON FELOH:** human authorship and creative agency.
+- **GLORY → GENJE / GENJENESS:** creative greatness, Genge-rooted sound, livecoding, movement, choreography and authored expression; FELOH remains the human author.
 - **GENJE:** independent embodied creative practice; **GENJE ZA WARENA** is a creative and enabling relationship, not a product merger.
 - **GRACE → NAKEBUSEN:** distinct beauty and loc-care practice; **ONLY NAKEBUSEN TRANSACTS**.
 
@@ -18,6 +18,10 @@ This is a supporting integration project in the WARENA engineering ecosystem. It
 **IKAI** — Reflective computing · Perception · Memory · Human experience  
 **WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
 **GENJE** — Music · Movement · Performance · Creative expression
+
+## Current identity clarification · 26 November 2026
+
+The current pillar mapping is **GRACE → NAKEBUSEN; GRIT → WARENA; GLORY → GENJE / GENJENESS**. FELOH remains the human author and creative/technical decision-maker. This repository remains a supporting WARENA integration, not a separate practice or commercial interface. See the [shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md).
 
 ## Scope and evidence
 
