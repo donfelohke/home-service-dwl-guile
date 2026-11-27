@@ -6,7 +6,7 @@ See [[file:ECOSYSTEM-UPDATE-2026-11-22.org][the 2026-11-22 ecosystem and fork-ma
 ** Repository and upstream boundary
 This repository is the WARENA-maintained fork of the upstream =engstrand-config/home-service-dwl-guile= project. The installation channel example below is the upstream channel and upstream introduction fingerprint as documented by the upstream project; it is not a channel declaration for this fork. Do not substitute this fork's URL or a new fingerprint without verifying the fork's current channel metadata and commit history. The fork preserves upstream history and licence obligations; it does not imply a Guix package build, installed Home service or active Wayland session. WARENA's current desktop policy treats Wayland / dwl-guile as secondary and experimental. See [[https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md][WARENA Technology Constitution]] and [[https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md][desktop architecture]].
 This repository contains a [[https://guix.gnu.org/manual/devel/en/html_node/Home-Configuration.html][Guix Home]] service which installs and configures [[https://github.com/engstrand-config/dwl-guile][ =dwl-guile= ]], a patched version of [[https://github.com/djpohly/dwl][ =dwl= ]] that is configured in [[https://www.gnu.org/software/guile/][GNU Guile]].
-You can install our home service with the help of the Guix channel below.
+The channel and service examples below are preserved from upstream documentation. They describe the upstream project, not a verified installation path for the WARENA fork.
 
 The main goal of =dwl-guile= is to serve as a minimal =dwm=-like Wayland compositor for those who use [[https://guix.gnu.org/][GNU Guix System]] --- a GNU/Linux distribution in which the user can customize and configure their entire system in GNU Guile.
 
@@ -24,10 +24,11 @@ This Guix Home service can:
 - apply (some) other common =dwl= patches dynamically
 - configure all options in dwl (in an Emacs-esque way) with Guile
 
-** Guix channel
-We provide =home-service-dwl-guile= in a Guix channel.
+** Upstream Guix channel example — provenance only
+The upstream =engstrand-config/home-service-dwl-guile= project provides its service through the channel below. This is not a channel declaration for the WARENA fork.
 
-Add the channel to your =~/.config/guix/channels.scm=:
+The following block is the upstream channel and fingerprint only; do not use it as the installation channel for this fork:
+
 #+begin_src scheme
 (channel
   (name 'home-service-dwl-guile)
@@ -39,9 +40,11 @@ Add the channel to your =~/.config/guix/channels.scm=:
       (openpgp-fingerprint
         "C9BE B8A0 4458 FDDF 1268 1B39 029D 8EB7 7E18 D68C"))))
 #+end_src
-Afterwards, run =guix pull=.
+The upstream guide then runs =guix pull=. This does not install or validate the WARENA fork.
 
-** Usage
+** Usage example — upstream API reference
+The following service configuration is retained as an upstream example. Module names and options may differ in the WARENA fork; no fork installation or service activation is claimed.
+
 *** Home service configuration
 =home-service-dwl-guile= is enabled by adding it to your list of home services.
 #+begin_src scheme
