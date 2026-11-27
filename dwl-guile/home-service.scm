@@ -37,7 +37,7 @@
   #:re-export (dwl-guile patch-dwl-guile-package))
 
 ;; Base wayland environment variables
-;; TODO: Add support for using electron apps natively in wayland?
+;; Electron is outside WARENA's native-first, JavaScript-free application policy.
 (define %dwl-guile-base-env-variables
   `(("XDG_CURRENT_DESKTOP" . "dwl")
     ("XDG_SESSION_TYPE" . "wayland")
