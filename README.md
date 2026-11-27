@@ -54,8 +54,3 @@ Prefer small, reviewable configuration changes. Preserve upstream source identit
 ## Canonical alignment · 27 November 2026
 
 See [WARENA ecosystem alignment](docs/FELOH-WARENA-ECOSYSTEM-ALIGNMENT-2026-11-27.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
-
-
-## African and Black intellectual research
-
-The [FELOH Corpus — THE AFRI-CAN INTELLECTUAL ATLAS](https://github.com/donfelohke/feloh-corpus/blob/research/canonical-synthesis-2026-11-27/docs/THE-AFRI-CAN-INTELLECTUAL-ATLAS-2026-11-27.md) is the shared research index for Africanisms, African philosophies, Black/Africana thought, Pan-African and diasporic movements, and indigenous knowledge. This repository links to that shared taxonomy; its own specialist records remain authoritative for its domain. The atlas is initial research, not a verified dictionary or implementation specification.
