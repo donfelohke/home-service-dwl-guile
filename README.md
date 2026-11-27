@@ -43,7 +43,6 @@ This repository is a supporting WARENA engineering artefact, not a parent projec
 - [Implementation guide](README.org).
 - [Documentation index](docs/README.md).
 - [Configuration provenance](docs/ASSET-AND-CONFIGURATION-PROVENANCE-2026-11-24.md).
-- [Contributing](CONTRIBUTING.md), where present.
 
 Prefer small, reviewable configuration changes. Preserve upstream source identity, document the local delta and keep channel provenance explicit.
 
