@@ -50,3 +50,7 @@ Prefer small, reviewable configuration changes. Preserve upstream source identit
 
 **WARENA · CAPABILITY · GRIT**  
 **Freedom Is a System.**
+
+## Canonical alignment · 27 November 2026
+
+See [WARENA ecosystem alignment](docs/FELOH-WARENA-ECOSYSTEM-ALIGNMENT-2026-11-27.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
