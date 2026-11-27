@@ -53,4 +53,4 @@ Prefer small, reviewable configuration changes. Preserve upstream source identit
 
 ## Canonical alignment · 27 November 2026
 
-See [WARENA ecosystem alignment](docs/FELOH-WARENA-ECOSYSTEM-ALIGNMENT-2026-11-27.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
+See [home-service ecosystem alignment](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
