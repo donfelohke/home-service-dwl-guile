@@ -19,7 +19,7 @@
   #:use-module (dwl-guile patches)
   #:export (
             dwl-guile
-            libddrm-2.4.113
+            libdrm-2.4.113
             wayland-1.21.0
             wayland-protocols-1.27
             xorg-server-xwayland-22.1.5
